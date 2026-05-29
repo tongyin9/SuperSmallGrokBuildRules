@@ -12,7 +12,7 @@
 
 ## Why Use These Rules?
 
-The Grok Build (Early Beta) already covered many of the core ideas from Andrej Karpathy’s LLM coding principles and Linux kernel development practices, like "smallest change" philosophy, avoiding adding unrequested features or speculative abstractions.
+The Grok Build (Early Beta) already covered many of the core ideas from Andrej Karpathy’s LLM coding principles [https://github.com/multica-ai/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines] and Linux kernel development practices, like "smallest change" philosophy, avoiding adding unrequested features or speculative abstractions.
 
 What this rule set `AGENTS.md` adds is the extra clarity and rules that often get missed but are specifically needed for experimental projects:
 
