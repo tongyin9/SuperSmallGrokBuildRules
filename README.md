@@ -8,13 +8,13 @@
 
 ## What is this?
 
-`AGENTS.md` is a set of lightweight coding rules used in Grok Build (beta) for small-scale experimental and research-aim projects.
+`AGENTS.md` is a set of lightweight coding rules used in Grok Build (beta) for small-scale experimental and research-aim projects. 
 
 ## Why Use These Rules?
 
-The Grok Build (Early Beta) already covered many of the core ideas from Andrej Karpathy’s LLM coding principles and Linux kernel development practices.
+The Grok Build (Early Beta) already covered many of the core ideas from Andrej Karpathy’s LLM coding principles and Linux kernel development practices, like "smallest change" philosophy, avoiding adding unrequested features or speculative abstractions.
 
-What this `AGENTS.md` adds is the extra clarity and rules that often get missed:
+What this rule set `AGENTS.md` adds is the extra clarity and rules that often get missed but are specifically needed for experimental projects:
 
 - A clear rule to always surface assumptions and uncertainties before making any change  
 - A strict “let real errors show up” policy—no hiding problems behind broad `try/except` blocks, default fallbacks, or made-up data  
@@ -24,10 +24,10 @@ What this `AGENTS.md` adds is the extra clarity and rules that often get missed:
 - A simple, persistent project memory system (inspired by Hermes) using `PROJECT_PROGRESS.md` and an archive log
 
 These additions make the rules especially useful for **small-scale experimental and research work**. You get:
-- Better transparency and reproducibility  
-- Easier debugging because root causes aren’t hidden  
-- Smooth continuity across multiple sessions without drowning in chat history  
-- Protection against over-engineering or unnecessary complexity that often creeps into exploratory projects
+- *Better transparency and reproducibility*
+- *Easier debugging because root causes aren’t hidden*  
+- *Smooth continuity across multiple sessions without drowning in chat history*  
+- *Protection against over-engineering or unnecessary complexity that often creeps into exploratory projects*
 
 ## Detailed Rules
 
