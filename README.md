@@ -2,7 +2,7 @@
 # Super Small Grok Build Rules
 
 
-**Lightweight Karpathy/Linux kernal/Hermes Hybrid**  
+**Lightweight rule set from Karpathy/Linux kernal/Hermes Hybrid**  
 
 **For Small-Scale Experimental and Research Projects**
 
