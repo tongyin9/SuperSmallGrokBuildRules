@@ -8,13 +8,13 @@
 
 ## What is this?
 
-`AGENTS.md` is a lightweight set of coding rules that guides all AI-assisted coding, refactoring, planning, and development work in Grok Build—specifically designed for small-scale experimental and research projects.
+`AGENTS.md` is a set of lightweight coding rules for Grok Build (beta) that guides AI-assisted coding, refactoring, planning, and development work—specifically designed for small-scale experimental and research-aim projects.
 
 ## Why Use These Rules?
 
 The Grok Build (Early Beta) already covered many of the core ideas from Andrej Karpathy’s LLM coding principles and Linux kernel development practices. Things like explicit reasoning, minimal viable changes, preserving existing code patterns, and maintaining strict backward compatibility are already built in.
 
-What this `AGENTS.md` adds is the extra clarity and rules that often gets missed:
+What this `AGENTS.md` adds is the extra clarity and rules that often get missed:
 
 - A clear rule to always surface assumptions and uncertainties before making any change  
 - A strict “let real errors show up” policy—no hiding problems behind broad `try/except` blocks, default fallbacks, or made-up data  
