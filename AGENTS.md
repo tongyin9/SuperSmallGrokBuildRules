@@ -1,12 +1,12 @@
 # AGENTS.md
 
-**Grok Build Agent Coding Rules**  
+**Super Small Grok Build Agent Coding Rules**  
 **Lightweight Karpathy/Linux/Hermes Hybrid**  
 **For Small-Scale Experimental and Research Projects**
 
 **Date:** 2026-05-27  
 
-**Purpose:** These rules provide a lightweight, minimal framework governing all AI-assisted coding, refactoring, planning, and development tasks within Grok Build. They constitute a deliberate hybrid of Andrej Karpathy’s LLM coding principles, Linux kernel development discipline, and Hermes-inspired persistent project state tracking. The rules are specifically tailored for small-scale experimental and research projects, where they enforce simplicity, transparency, backward compatibility, and auditable continuity while preventing common AI pitfalls such as hidden errors or fabricated outputs. All agents must adhere to them strictly.
+**Purpose:** These rules provide a lightweight, minimal framework governing all AI-assisted coding, refactoring, planning, and development tasks within Grok Build. They constitute a deliberate hybrid of Andrej Karpathyâ€™s LLM coding principles, Linux kernel development discipline, and Hermes-inspired persistent project state tracking. The rules are specifically tailored for small-scale experimental and research projects, where they enforce simplicity, transparency, backward compatibility, and auditable continuity while preventing common AI pitfalls such as hidden errors or fabricated outputs. All agents must adhere to them strictly.
 
 ## Core Rules
 
